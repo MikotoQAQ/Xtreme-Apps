@@ -5,8 +5,8 @@
 // Documentation at https://learn.microsoft.com/en-us/windows-hardware/design/component-guidelines/bluetooth-swift-pair
 
 static const char* names[] = {
-    "Assquach💦",
-    "Flipper 🐬",
+    "Mikoto💦",
+    "yyds 💦",
     "iOS 17 🍎",
     "Kink💦",
     "👉👌",
